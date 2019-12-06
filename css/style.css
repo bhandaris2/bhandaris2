@@ -1,0 +1,22 @@
+.theme-wrap {
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
+}
+.navbar-brand__bg {
+    width: 12.6rem;
+    height: 10.5rem;
+}
+.theme-cloud {
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    background-image: url(../ProjectPic/hero-cloud.png);
+    background-size: 100%;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-position: bottom center !important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
